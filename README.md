@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am practicing coding any program.
+in the fucture, I'll be a cool programmer.
 <!--
 **powerfulkid/powerfulkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
